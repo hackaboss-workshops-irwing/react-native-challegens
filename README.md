@@ -1,2 +1,2 @@
-# react-native-challegens
+# react-native-challeges
 Challenges for react Native / Expo
